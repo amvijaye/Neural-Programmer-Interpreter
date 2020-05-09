@@ -12,5 +12,5 @@ The architecure of NPI consists of:
 * **Program End-Predictor**:This network shows the hidden state of the LSTM and tells us the timestemp of the terminating execution.
 * **Next Predictor**:This network tells us exactly which program in the encoded input will be executed.
 
-## Tasks:
+### Tasks
 ### Card Pattern Matching:
