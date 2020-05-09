@@ -14,6 +14,7 @@ The architecure of NPI consists of:
 
 ## Tasks
 ### Card Pattern Matching
-main.py ==> executable task which will generate traces
-trace_card_matching.py ==>  it shows the traces of the dataset given for training
+* main.py ==> executable task which will generate traces
+* trace_card_matching.py ==>  it shows the traces for the given set of data
+
 
