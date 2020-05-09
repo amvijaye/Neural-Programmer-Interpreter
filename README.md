@@ -17,4 +17,6 @@ The architecure of NPI consists of:
 * main.py ==> executable task which will generate traces
 * trace_card_matching.py ==>  it shows the traces for the given set of data
 
+## Execution Results
+Example 1:card1=5 of diamonds and card2=5 of diamonds
 
