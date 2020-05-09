@@ -1,2 +1,4 @@
-# Neural-Programmer-Interpreter
-Multiplication and Card Matching Algorithm using Neural Programmer Interpreter
+# Neural-Programmer-Interprete
+Neural-Programmer-Interpreter implementation based on the original paper by Scott Reed and Nando De Freitas
+
+
