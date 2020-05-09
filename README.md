@@ -18,7 +18,7 @@ The architecure of NPI consists of:
 * trace_card_matching.py ==>  it shows the traces for the given set of data
 
 ## Execution Results
-**Example 1:card1=5 of diamonds and card2=5 of diamonds **
+**Example 1:card1=5 of diamonds and card2=5 of diamonds**
 ![example1](https://user-images.githubusercontent.com/65048509/81460030-b8bd4d80-9170-11ea-8cf4-c7c93eadc4a5.JPG)
 
 
