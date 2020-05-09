@@ -13,5 +13,7 @@ The architecure of NPI consists of:
 * **Next Predictor**:This network tells us exactly which program in the encoded input will be executed.
 
 ## Tasks
-### Card Pattern Matching:
+### Card Pattern Matching
+main.py ==> executable task which will generate traces
+trace_card_matching.py ==>  it shows the traces of the dataset given for training
 
